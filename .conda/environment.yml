@@ -7,6 +7,9 @@ dependencies:
   - ipython
   - jupyterlab
   - jupyterlab-widgets
+  # Notebook conversion
+  - nbconvert
+  - nbconvert-webpdf
   # Numerical and statistical
   - numpy
   - libblas
