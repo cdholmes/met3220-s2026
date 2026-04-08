@@ -32,6 +32,7 @@ dependencies:
   # Data analysis
   - pandas
   - xarray
+  - dask
   - metpy
   - nc-time-axis
   # File access
